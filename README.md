@@ -2,7 +2,7 @@
 <h3 align="center">I STAND ON A SWEET SPOT WHERE DESIGN & CODE INTERSECTS.</h3>
 
 # 💫 About Me:
-🌱 I’m currently working on Maachine Learning<br>💬 Ask me about programming langugaes, web dev & app dev<br>📫 How to reach me sk702703@gmail.com<br>⚡ Fun fact I am good in cooking
+🌱 I’m currently working on Machine Learning<br>💬 Ask me about programming langugaes, web dev & app dev<br>📫 How to reach me sk702703@gmail.com<br>⚡ Fun fact I am good in cooking
 
 
 ## 🌐 Socials:
